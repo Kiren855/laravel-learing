@@ -1,10 +1,4 @@
-# BugBuster
-Dự án phát triển phần mềm quản lý lỗi sử dụng framework Laravel.
-### Thành viên nhóm
-- **[Giảng viên hướng dẫn: Nguyễn Lệ Thu](https://github.com/nglthu)**
-- **[Bùi Văn Công](https://github.com/CNG03)**
-- **[Trần Ngọc Lâm](https://github.com/tranngoclamm)**
-- **[Nông Ngọc Huân](https://github.com/Kiren855)**
+
 ## Cài đặt dự án.
 - Cài đặt Laragon hoặc Xampp để chạy serve.
 - Cài đặt Composer(v2.7.1) để chạy được composer phải thực hiện cài đặt Php và thực hiện cấu hình php vào trong biến môi trường ở trong máy tính.
